@@ -1,0 +1,3 @@
+@Algorithm(
+    name = "Simple transformation";
+)
